@@ -1,4 +1,23 @@
 ---
 label: Template for Posts
 hide_body: false
-fields: []
+fields:
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+  description: Gallery
+- name: huge_title
+  type: text
+  config:
+    required: false
+  label: HUGE TITLE
+- name: post_text_here
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Post Text Here
