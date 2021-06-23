@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021-06-24-A-New-Beginning
+title: A New Beginning.md
 categories: Welcome
 author:
 - robonxt.ai
