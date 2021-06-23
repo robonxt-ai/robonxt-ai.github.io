@@ -1,9 +1,11 @@
 ---
 layout: post
-title: A New Beginning.md
-categories: Welcome
+title: A New Beginning
+categories:
+  - Welcome
 author:
-- robonxt.ai
-
+  - robonxt.ai
 ---
-A new fresh website is here! robonxt-ai.github.io let's go!
+A new fresh website is here\! robonxt-ai.github.io is online\!
+
+Let's go, robo\!
