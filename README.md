@@ -1,2 +1,2 @@
 A Se7enHatachi Project.
-Beta github website of https://robonxt.github.io
+A Beta website hosted on Github: robonxt-ai.github.io
